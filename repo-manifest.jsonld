@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/open-mmlab/mmengine/commit/f8a8b1b3b3051175a8babe5df9c753a981919087",
       "git:hexsha": "f8a8b1b3b3051175a8babe5df9c753a981919087",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.11.0rc3"
     },
     {
