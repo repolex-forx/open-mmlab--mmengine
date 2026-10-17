@@ -1,0 +1,11 @@
+{
+  "org": "open-mmlab",
+  "repo": "mmengine",
+  "versions": [
+    {
+      "commit": "f8a8b1b3b3051175a8babe5df9c753a981919087",
+      "tag": "v0.11.0rc3",
+      "parsed_at": "2026-10-17T15:38:36.272559+00:00"
+    }
+  ]
+}
